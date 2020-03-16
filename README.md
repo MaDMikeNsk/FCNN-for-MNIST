@@ -1,1 +1,1 @@
-# Fully COnnected neural network with dropout layers for MNIST
+# Fully Connected neural network with dropout layers for MNIST
